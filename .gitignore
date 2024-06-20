@@ -1,0 +1,15 @@
+#General files
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info
+build/
+dist/
+env/
+include/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
